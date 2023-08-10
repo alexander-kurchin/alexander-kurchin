@@ -10,7 +10,7 @@
 
 - :snake: После тридцати решил попробовать себя в информационных технологиях. Изучаю Python, Django, SQL и всё, что необходимо для работы бэкенд-разработчика.
 
-:briefcase: Ниже моё (пока) скромное портфолио.
+:briefcase: Ниже моё скромное портфолио.
 
 <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="18"> Связь со мной: https://www.linkedin.com/in/alexander-kurchin/
 
